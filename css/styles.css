@@ -1,0 +1,59 @@
+.logo {
+    max-height: 70px;
+}
+.logo-text {
+    display: inline-block;
+    font-family: 'Satisfy', cursive;
+    color: #FF827B;
+    font-size: 36px;
+    margin-top: 20px;
+}
+.row .li {
+    text-decoration: none;
+}
+.jumbotron {
+    background-image: url(../img/hero.jpg);
+    background-size: cover;
+    height: 450px;
+    background-position: center;
+}
+.jumbotron h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    color: white;
+}
+.thumbnail {
+    background-color: #edf1f4;
+    padding: 5px;
+}
+
+footer {
+    padding: 60px 0;
+}
+.footerbackground {
+    background-color: black;
+}
+
+.white {
+    color: #BFC0C1;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover {
+    color: #BFC0C1;
+}
+.copyright {
+    color: #424041;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+.social-stuff {
+    padding: 60px 0;
+}
+.borderline {
+    border-left: 1px solid white;
+}
